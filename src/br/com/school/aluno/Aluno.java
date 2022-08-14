@@ -1,6 +1,6 @@
 package br.com.school.aluno;
 
-public class Aluno {
+public class Aluno  {
 
 	private int idAluno;
 	private String nomeAluno;
